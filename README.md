@@ -19,6 +19,8 @@ Guardfile
 Blakefile
 Knylefile
 Filefile
+Vagrantfile
+Tenderfile
 ```
 
 Yes, your Filefile should include itself at the end. Deal with it.
