@@ -21,7 +21,7 @@ Knylefile
 Filefile
 ```
 
-Yes, your Filefile should include itself at the end.
+Yes, your Filefile should include itself at the end. Deal with it.
 
 ## Example Repositories
 
