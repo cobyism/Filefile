@@ -15,6 +15,7 @@ Gemfile
 Rakefile
 Procfile
 Makefile
+Cakefile
 Guardfile
 Blakefile
 Knylefile
