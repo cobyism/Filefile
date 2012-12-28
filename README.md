@@ -22,6 +22,7 @@ Knylefile
 Filefile
 Vagrantfile
 Tenderfile
+lslRfile
 ```
 
 Yes, your Filefile should include itself at the end. Deal with it.
