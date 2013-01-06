@@ -26,7 +26,14 @@ Filefile
 
 Yes, your Filefile should include itself at the end. Deal with it.
 
-## Example Repositories
+## Creating your very own Filefile
+
+```
+$ cd /path/to/your/project
+$ ls *file >> Filefile && echo Filefile >> Filefile
+```
+
+## Example repositories
 
 - [cobyism/Filefile](https://github.com/cobyism/Filefile/blob/master/Filefile)
 
