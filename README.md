@@ -11,26 +11,28 @@ The root directories of countless projects across the interwebs are littered wit
 Here is what your average project’s `Filefile` might look like:
 
 ```
-Gemfile
-Rakefile
-Procfile
-Makefile
-Cakefile
-Guardfile
+Berkfile
 Blakefile
-Knylefile
-Vagrantfile
-Tenderfile
+Cakefile
+Cheffile
 Filefile
+Gemfile
+Guardfile
+Knylefile
+Makefile
+Procfile
+Rakefile
+Tenderfile
+Vagrantfile
 ```
 
-Yes, your Filefile should include itself at the end. Deal with it.
+Yes, your Filefile should include itself. Deal with it.
 
 ## Creating your very own Filefile
 
 ```
 $ cd /path/to/your/project
-$ ls *file >> Filefile && echo Filefile >> Filefile
+$ touch Filefile && ls *file >> Filefile
 ```
 
 ## Example repositories
