@@ -11,7 +11,7 @@ The root directories of countless projects across the interwebs are littered wit
 Here is what your average project’s `Filefile` might look like:
 
 ```
-Berkfile
+Berksfile
 Blakefile
 Cakefile
 Cheffile
