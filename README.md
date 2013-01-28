@@ -20,6 +20,7 @@ Gemfile
 Guardfile
 Knylefile
 Makefile
+Podfile
 Procfile
 Rakefile
 Tenderfile
