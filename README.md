@@ -15,6 +15,7 @@ Berksfile
 Blakefile
 Cakefile
 Cheffile
+Doxyfile
 Filefile
 Gemfile
 Guardfile
