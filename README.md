@@ -19,6 +19,7 @@ Doxyfile
 Filefile
 Gemfile
 Guardfile
+Jakefile
 Knylefile
 Makefile
 Podfile
