@@ -18,6 +18,7 @@ Cheffile
 Doxyfile
 Filefile
 Gemfile
+Gruntfile
 Guardfile
 Jakefile
 Knylefile
