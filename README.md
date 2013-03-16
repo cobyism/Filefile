@@ -16,6 +16,7 @@ Blakefile
 Cakefile
 Cheffile
 Doxyfile
+Fabfile
 Filefile
 Gemfile
 Gruntfile
