@@ -15,6 +15,7 @@ Berksfile
 Blakefile
 Cakefile
 Cheffile
+Dockerfile
 Doxyfile
 Filefile
 Gemfile
