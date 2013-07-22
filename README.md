@@ -14,6 +14,7 @@ Here is what your average project’s `Filefile` might look like:
 Berksfile
 Blakefile
 Cakefile
+Capfile
 Cheffile
 Dockerfile
 Doxyfile
