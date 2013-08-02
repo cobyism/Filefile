@@ -22,6 +22,7 @@ Filefile
 Gemfile
 Gruntfile
 Guardfile
+Huxleyfile
 Jakefile
 Knylefile
 Makefile
