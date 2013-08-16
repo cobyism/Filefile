@@ -26,9 +26,11 @@ Huxleyfile
 Jakefile
 Knylefile
 Makefile
+Modulefile
 Podfile
 Portfile
 Procfile
+Puppetfile
 Rakefile
 Tenderfile
 Vagrantfile
