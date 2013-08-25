@@ -32,6 +32,7 @@ Portfile
 Procfile
 Puppetfile
 Rakefile
+Sitefile
 Tenderfile
 Vagrantfile
 ```
