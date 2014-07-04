@@ -15,6 +15,7 @@ Berksfile
 Blakefile
 Cakefile
 Capfile
+Caskfile
 Cheffile
 Dockerfile
 Doxyfile
