@@ -13,6 +13,7 @@ Here is what your average project’s `Filefile` might look like:
 ```
 Berksfile
 Blakefile
+Brewfile
 Cakefile
 Capfile
 Caskfile
