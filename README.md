@@ -22,6 +22,7 @@ Caskfile
 Cheffile
 Dockerfile
 Doxyfile
+Fastfile
 Filefile
 Gemfile
 Gruntfile
