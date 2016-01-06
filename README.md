@@ -28,6 +28,7 @@ Filefile
 Gemfile
 Gruntfile
 Guardfile
+gulpfile
 Huxleyfile
 Jakefile
 Knylefile
