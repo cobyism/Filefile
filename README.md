@@ -55,6 +55,7 @@ $ touch Filefile && ls *file >> Filefile
 ## Example repositories
 
 - [cobyism/Filefile](https://github.com/cobyism/Filefile/blob/master/Filefile)
+- [pyaa/authority](https://github.com/pyaa/authority/blob/master/Filefile)
 
 ## Contributing
 
