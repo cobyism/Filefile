@@ -42,6 +42,7 @@ Rakefile
 Sitefile
 Tenderfile
 Vagrantfile
+Jenkinsfile
 ```
 
 Yes, your Filefile should include itself. Deal with it.
