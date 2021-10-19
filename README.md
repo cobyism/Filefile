@@ -15,6 +15,7 @@ Appfile
 Berksfile
 Blakefile
 Brewfile
+Brocfile
 buildfile
 Caddyfile
 Cakefile
