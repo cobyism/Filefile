@@ -41,6 +41,7 @@ Puppetfile
 Rakefile
 Sitefile
 Tenderfile
+Tupfile
 Vagrantfile
 ```
 
